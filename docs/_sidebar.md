@@ -1,5 +1,5 @@
 * 导读
-    * [**Flink**](/study/Flink/README)
+    * [**Flink**](/study/flink/README)
     * [**Android**](/study/Android/README)
     * [**LeetCode**](/study/LeetCode_Study/README)
     * [**React**](/study/React/README)
