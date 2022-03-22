@@ -1,6 +1,6 @@
 #  导读
 
-> [Ashiamd的个人MD笔记](https://ashiamd.github.io/docsify-notes/) ==> https://ashiamd.github.io/docsify-notes/
+> [2pc的个人MD笔记](https://ashiamd.github.io/docsify-notes/) ==> https://2pc.github.io/docsify-notes/
 
 该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。
 
